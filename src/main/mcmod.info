@@ -1,0 +1,16 @@
+[
+{
+  "modid": "infernal",
+  "name": "Infernal Desire",
+  "description": "For When Starting into Fire Grants Knowledge of a new Level -- What does this Mean Oh Great Fire",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EmoKiba"],
+  "credits": "The First Caveman who Invented Fire",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
