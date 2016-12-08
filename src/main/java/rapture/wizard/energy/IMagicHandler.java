@@ -6,4 +6,6 @@ public interface IMagicHandler {
     void addMagic(int magic);
     void removeMagic(int magic);
 
+
+
 }
